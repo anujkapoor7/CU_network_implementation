@@ -5,4 +5,4 @@ Created a computer networks project, titled 'Chandigarh University Computer Netw
 - A sincere thanks to team members Shubhnoor Gill and Argha Samanta.
 - A special thanks to our mentor, Maninderpal Singh sir for guiding us throughout the project.
 - Note: The network structure is not the exact replica of the network in Chandigarh University.
-link For project Video: https://www.linkedin.com/posts/anuj-kapoor-a39279188_computernetworks-project-teamwork-ugcPost-6739407014151229440-hZ2k
+- link For project Video: https://www.linkedin.com/posts/anuj-kapoor-a39279188_computernetworks-project-teamwork-ugcPost-6739407014151229440-hZ2k
